@@ -1,0 +1,20 @@
+{
+  "name": "hoex1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Eduardo Agustavo Rocha Fonseca <eduardo.agustavo@sga.pucminas.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "^9.8.1"
+  }
+}
